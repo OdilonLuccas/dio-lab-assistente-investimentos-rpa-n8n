@@ -170,3 +170,8 @@ Conecte o Agente de IA do N8N a um modelo como Gemini ou GPT para:
 **Bons estudos e mãos à obra** 🚀
 
 Se tiver dúvidas, lembre-se: a melhor forma de aprender é experimentando. Erre, corrija e celebre cada pequena vitória no caminho.
+https://odilonluccas.app.n8n.cloud/workflow/8KnKJ0vifHwdKX4j?projectId=XXwLT1WxQ58ALW6i
+
+https://colab.research.google.com/github/OdilonLuccas/dio-lab-assistente-investimentos-rpa-n8n/blob/main/rpa/extrair_clientes.ipynb#scrollTo=MmL6DwgHG38u
+
+
